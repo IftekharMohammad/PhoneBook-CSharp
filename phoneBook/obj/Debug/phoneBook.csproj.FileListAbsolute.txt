@@ -1,0 +1,13 @@
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\bin\Debug\phoneBook.exe.config
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\bin\Debug\phoneBook.exe
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\bin\Debug\phoneBook.pdb
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\bin\Debug\MetroFramework.Design.dll
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\bin\Debug\MetroFramework.dll
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.csprojResolveAssemblyReference.cache
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.Form1.resources
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.Properties.Resources.resources
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.csproj.GenerateResource.Cache
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.exe
+C:\Users\Iftekhar\source\repos\phoneBook\phoneBook\obj\Debug\phoneBook.pdb
